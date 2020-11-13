@@ -1,0 +1,16 @@
+{
+  "id": "franz-avira",
+  "name": "Avira",
+  "version": "1.0.2",
+  "description": "Avira",
+  "main": "index.js",
+  "author": "don Pablo <don@obeyi.com>",
+  "license": "MIT",
+  "repository": "https://github.com/donPabloNow/recipe-avira",
+  "config": {
+    "serviceURL": "https://passwords.avira.com/",
+	"hasNotificationSound": false,
+    "hasIndirectMessages": false,
+    "hasCustomUrl": false
+  }
+}
